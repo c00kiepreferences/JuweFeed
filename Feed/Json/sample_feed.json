@@ -1,12 +1,23 @@
 {
-    "newsData": [
-      {
-        "title": "Uwaga!!!"
-      }
-    ],
-    "artistData": [
-      {
-        "name": "Paulina"
-      }
-    ]
-  }
+  "id": 1,
+  "newsData": [
+    {
+      "title": "Breaking News 1",
+      "image": "andre.jpg"
+    },
+    {
+      "title": "Breaking News 2",
+      "image": ""
+    }
+  ],
+  "artistData": [
+    {
+      "name": "Artist 1",
+      "image": ""
+    },
+    {
+      "name": "Artist 2",
+      "image": ""
+    }
+  ]
+}
