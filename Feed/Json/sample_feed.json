@@ -2,10 +2,12 @@
   "id": 9,
   "newsData": [
     {
+      "id": 0,
       "title": "Breaking News 1",
       "imageFilename": "news1.jpeg"
     },
     {
+      "id": 1,
       "title": "Breaking News 2",
       "imageFilename": "news2.jpeg"
     }
