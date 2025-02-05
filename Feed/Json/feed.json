@@ -35,7 +35,39 @@
       "time": "21:00"
     },
     {
-      "id": 1,
+      "id": 2,
+      "name": "Morgan Freeman",
+      "imageFilename": "morgan.jpg",
+      "description": "On nawet nie towrzy muzyki."
+      "day": 1,
+      "time": "21:00"
+    },
+    {
+      "id": 3,
+      "name": "Morgan Freeman",
+      "imageFilename": "morgan.jpg",
+      "description": "On nawet nie towrzy muzyki."
+      "day": 2,
+      "time": "21:00"
+    },
+    {
+      "id": 4,
+      "name": "Morgan Freeman",
+      "imageFilename": "morgan.jpg",
+      "description": "On nawet nie towrzy muzyki."
+      "day": 1,
+      "time": "21:00"
+    },
+    {
+      "id": 5,
+      "name": "Morgan Freeman",
+      "imageFilename": "morgan.jpg",
+      "description": "On nawet nie towrzy muzyki."
+      "day": 1,
+      "time": "21:00"
+    },
+    {
+      "id": 6,
       "name": "Kizo",
       "imageFilename": "kizo.jpeg",
       "description": "Tego artysty chyba nie trzeba Wam przedstawiać. Najważniejsze pytanie brzmi jednak: Kizo na juwenaliach??????"
@@ -43,7 +75,7 @@
       "time": "20:00"
     },
     {
-      "id": 3,
+      "id": 7,
       "name": "Błażej Wilkoławski",
       "imageFilename": "blazej.jpg",
       "description": "Błażej jest najlepszy na świecie!!!"
