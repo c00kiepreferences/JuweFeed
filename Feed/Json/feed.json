@@ -33,5 +33,19 @@
       "name": "Kizo",
       "imageFilename": "kizo.jpeg"
     }
-  ]
+  ],
+  "sponsorsData": [
+    {
+      "id": 0,
+      "name": "Perła",
+      "imageFilename": "perla.png",
+      "url": "https://perla.pl/"
+    },
+    {
+      "id": 1,
+      "name": "JetBrains",
+      "imageFilename": "jetbrains.jpeg",
+      "url": "https://www.jetbrains.com/"
+    }
+  ],
 }
