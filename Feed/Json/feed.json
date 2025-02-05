@@ -21,17 +21,20 @@
     {
       "id": 0,
       "name": "Andre De Shields",
-      "imageFilename": "andre.jpg"
+      "imageFilename": "andre.jpg",
+      "description": "Aktor, który potrafi wcielić się w rolę Hermesa jak nikt inny!"
     },
     {
       "id": 1,
       "name": "Morgan Freeman",
-      "imageFilename": "morgan.jpg"
+      "imageFilename": "morgan.jpg",
+      "description": "On nawet nie towrzy muzyki."
     },
     {
       "id": 2,
       "name": "Kizo",
-      "imageFilename": "kizo.jpeg"
+      "imageFilename": "kizo.jpeg",
+      "description": "Tego artysty chyba nie trzeba Wam przedstawiać. Najważniejsze pytanie brzmi jednak: Kizo na juwenaliach??????"
     }
   ],
   "sponsorsData": [
