@@ -35,6 +35,12 @@
       "name": "Kizo",
       "imageFilename": "kizo.jpeg",
       "description": "Tego artysty chyba nie trzeba Wam przedstawiać. Najważniejsze pytanie brzmi jednak: Kizo na juwenaliach??????"
+    },
+    {
+      "id": 3,
+      "name": "Błażej Wilkoławski",
+      "imageFilename": "blazej.jpg",
+      "description": "Błażej jest najlepszy na świecie!!!"
     }
   ],
   "sponsorsData": [
