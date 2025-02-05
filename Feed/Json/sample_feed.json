@@ -1,23 +1,23 @@
 {
-  "id": 8,
+  "id": 9,
   "newsData": [
     {
       "title": "Breaking News 1",
-      "image": "news1.jpeg"
+      "imageFilename": "news1.jpeg"
     },
     {
       "title": "Breaking News 2",
-      "image": "news2.jpeg"
+      "imageFilename": "news2.jpeg"
     }
   ],
   "artistData": [
     {
       "name": "Andre De Shields",
-      "image": "andre.jpg"
+      "imageFilename": "andre.jpg"
     },
     {
       "name": "Morgan Freeman",
-      "image": "morgan.jpg"
+      "imageFilename": "morgan.jpg"
     }
   ]
 }
