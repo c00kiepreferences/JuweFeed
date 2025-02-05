@@ -23,24 +23,32 @@
       "name": "Andre De Shields",
       "imageFilename": "andre.jpg",
       "description": "Aktor, który potrafi wcielić się w rolę Hermesa jak nikt inny!"
+      "day": 2,
+      "time": "20:00"
     },
     {
       "id": 1,
       "name": "Morgan Freeman",
       "imageFilename": "morgan.jpg",
       "description": "On nawet nie towrzy muzyki."
+      "day": 1,
+      "time": "21:00"
     },
     {
-      "id": 2,
+      "id": 1,
       "name": "Kizo",
       "imageFilename": "kizo.jpeg",
       "description": "Tego artysty chyba nie trzeba Wam przedstawiać. Najważniejsze pytanie brzmi jednak: Kizo na juwenaliach??????"
+      "day": 2,
+      "time": "20:00"
     },
     {
       "id": 3,
       "name": "Błażej Wilkoławski",
       "imageFilename": "blazej.jpg",
       "description": "Błażej jest najlepszy na świecie!!!"
+      "day": 2,
+      "time": "19:00"
     }
   ],
   "sponsorsData": [
