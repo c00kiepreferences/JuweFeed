@@ -2,26 +2,36 @@
   "id": 13,
   "newsData": [
     {
-      "id": 1,
+      "id": 0,
       "title": "Breaking News 1",
       "imageFilename": "news1.jpeg"
     },
     {
-      "id": 0,
+      "id": 1,
       "title": "Breaking News 2",
       "imageFilename": "news2.jpeg"
+    }
+    {
+      "id": 2,
+      "title": "Kizo na juwenaliach????",
+      "imageFilename": "kizonews.jpg"
     }
   ],
   "artistData": [
     {
-      "id": 1,
+      "id": 0,
       "name": "Andre De Shields",
       "imageFilename": "andre.jpg"
     },
     {
-      "id": 0,
+      "id": 1,
       "name": "Morgan Freeman",
       "imageFilename": "morgan.jpg"
+    }
+    {
+      "id": 2,
+      "name": "Kizo",
+      "imageFilename": "kizo.jpeg"
     }
   ]
 }
